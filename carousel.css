@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+.footer {
+    height: 70px;
+    width: auto;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+img {
+    text-align: center;
+    height: 250px;
+    width: 210px;
+    margin-left: 40%;
+}
+
+p {
+    text-align: center;
+    width: 300px; 
+    margin-left: 35%;
+}
