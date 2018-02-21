@@ -95,6 +95,6 @@ hr {
 
 }
 
-#row {
-
+.media-body {
+    padding-left: 10%;
 }
